@@ -1,0 +1,14 @@
+.nav-bar-component{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .nav-bar-links-container{
+        .nav-bar-link{
+            margin-right: 20px;
+            text-decoration: none;
+
+        }
+    }
+   
+}
